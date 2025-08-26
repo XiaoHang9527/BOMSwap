@@ -1,0 +1,25 @@
+{
+    "last_bom_dir": "",
+    "default_sub_path": "",
+    "bom_header_mapping": {
+        "item": "Item",
+        "pn": "PN",
+        "part": "Part",
+        "reference": "Reference",
+        "quantity": "Quantity",
+        "description": "Description",
+        "mfr_pn": "ManufacturerPN",
+        "manufacturer": "Manufacturer"
+    },
+    "sub_header_mapping": {
+        "pn": "PN",
+        "part": "Part",
+        "description": "Description",
+        "mfr_pn": "ManufacturerPN",
+        "manufacturer": "Manufacturer",
+        "attribute": "attribute"
+    },
+    "highlight_color": "FFFFC0",
+    "last_update_check": 1747045960.4449325,
+    "last_used_header_mapping": {}
+}
